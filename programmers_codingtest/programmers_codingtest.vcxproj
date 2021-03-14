@@ -112,6 +112,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="2XN 타일링.cpp" />
+    <ClCompile Include="N으로 표현.cpp" />
     <ClCompile Include="단어변환.cpp" />
     <ClCompile Include="추석트래픽.cpp" />
     <ClCompile Include="풍선터트리기.cpp" />
