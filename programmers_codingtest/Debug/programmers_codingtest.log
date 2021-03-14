@@ -1,0 +1,3 @@
+﻿  단어변환.cpp
+c:\users\leeseoyoung\documents\visual studio 2017\projects\programmers_codingtest\programmers_codingtest\단어변환.cpp(23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+LINK : fatal error LNK1561: 진입점이 정의되어야 합니다.
