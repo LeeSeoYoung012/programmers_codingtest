@@ -113,6 +113,7 @@
   <ItemGroup>
     <ClCompile Include="2XN 타일링.cpp" />
     <ClCompile Include="N으로 표현.cpp" />
+    <ClCompile Include="네트워크.cpp" />
     <ClCompile Include="단어변환.cpp" />
     <ClCompile Include="섬연결하기.cpp" />
     <ClCompile Include="정수삼각형.cpp" />
